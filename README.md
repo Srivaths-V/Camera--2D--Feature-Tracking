@@ -1,4 +1,4 @@
-# Sensor Fusion Program - 2nd Project 2D Feature Tracking
+# Sensor Fusion Program - 2nd Project - 2D Feature Tracking
 
 <img src="images/keypoints.png" width="820" height="248" />
 
