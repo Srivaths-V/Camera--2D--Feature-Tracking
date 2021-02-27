@@ -16,7 +16,17 @@ The idea of the camera section of Sensor fusion course is to build a collision d
 
 With this project, the keypoint matching part will be set up and which will be used for 3D-Object Tracking project, where the focus is on integrating Lidar points and on object detection using deep-learning. 
 
+## My Results
+The best combinations are FAST_ORB, ORB_BRIEF, BRISK_BRIEF
+
+* FAST_ORB Detector-desciptor
 <img src="Detector-descriptor combo/FAST_ORB.png" width="820" />
+
+* ORB_BRIEF Detector-desciptor
+<img src="Detector-descriptor combo/ORB_BRIEF.png" width="820"/>
+
+* BRISK_BRIEF Detector-desciptor
+<img src="Detector-descriptor combo/BRISK_BRIEF.png" width="820"/>
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
